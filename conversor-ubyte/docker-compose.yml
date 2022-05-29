@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  python27:
+    build: .
+    container_name: python-2.7
+    command: tail -f /dev/null
+    volumes:
+      - ./conversor_app:/home/conversor

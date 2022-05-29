@@ -1,0 +1,3 @@
+vacio
+pdf417
+otros
