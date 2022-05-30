@@ -1,0 +1,2 @@
+Este archivo es sólo para que git suba la carpeta "0", ya que debe ir vacía.
+Borrarlo cuando se quiera usar el conversor.
